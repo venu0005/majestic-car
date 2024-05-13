@@ -9,4 +9,4 @@
 
 
 ## What will you do next?
-- [Continue exploring the capabilities of the Majestic Car](next_page.md)
+- Continue exploring the capabilities of the Majestic Car (next_page.md)
